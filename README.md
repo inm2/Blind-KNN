@@ -2,11 +2,10 @@
 
 This repository is a simplified of one of my dissertation topics and papers, the use of K-Nearest Neighbors to be able to classify where radio frequency (RF) signatures come from in relation to its source, a technique that can be used for indoor localization, or the ability to determine a user's position in an indoor environment. 
 
-The purpose of the current project is to be able to take some of the work we've done in the past, which was done in R, and to be able to show the concepts of KNN, cross-validation, and A/B (hypothesis) testing. I will be using Python with the Pandas, Numpy, and Sklearn libraries for this project.
+The purpose of the current project is to be able to take some of the work we've done in the past, which was done in R, and to be able to show the concepts of KNN, cross-validation, and A/B (hypothesis) testing. I will be using Python with the Pandas, Numpy, SciPy, and Sklearn libraries for this project.
 
 ## Project Links
 1. [Classification (KNN, Cross-Validation, A/B Testing)](https://github.com/inm2/Blind-KNN/blob/main/KNN%20Classification.ipynb)
-2. Regression Modeling
 
 ## Journal Paper
 To read the full journal, click here: https://ieeexplore.ieee.org/document/9044410

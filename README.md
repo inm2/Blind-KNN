@@ -5,14 +5,14 @@ This repository is a simplified of one of my dissertation topics and papers, the
 The purpose of the current project is to be able to take some of the work we've done in the past, which was done in R, and to be able to show the concepts of KNN, cross-validation, and A/B (hypothesis) testing. I will be using Python with the Pandas, Numpy, and Sklearn libraries for this project.
 
 ## Project Links
-1. Classification (KNN, Cross-Validation, A/B Testing)
+1. [Classification (KNN, Cross-Validation, A/B Testing)](https://github.com/inm2/Blind-KNN/blob/main/KNN%20Classification.ipynb)
 2. Regression Modeling
 
 ## Journal Paper
 To read the full journal, click here: https://ieeexplore.ieee.org/document/9044410
 
 ## Resources
-For this project, I already have our cleaned data source that we used for the project. I have the database uploaded to this repository as a .csv file. 
+[For this project, I already have our cleaned data source that we used for the project. I have the database uploaded to this repository as a .csv file.](https://github.com/inm2/Blind-KNN/blob/main/KnnData2.csv) 
 
 ## Explanation of Project
 
